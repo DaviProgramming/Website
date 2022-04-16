@@ -14,11 +14,12 @@ $('#hero-carousel').owlCarousel({
     nav:true,
     navText: navText,
     autoPlayHoverPause: true,
+    
 
 })
 
 $('#top-movies-slide').owlCarousel({
-    items:6,
+    items:2,
     dots:false,
     loop:true,
     autoPlay:false,
