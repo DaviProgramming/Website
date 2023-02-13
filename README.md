@@ -7,3 +7,7 @@
  <img src="https://i.imgur.com/LeOhyrS.png" alt="">
  <h2>THE ICONS WAS MADE USING BOX ICONS CDN</H2>
  <img src="https://i.imgur.com/gJGFKJb.png" alt="">
+
+# Link da aplicação na Vercel:
+
+[yoolo-site-for-movies-and-series.vercel.app/](https://yoolo-site-for-movies-and-series.vercel.app/)
